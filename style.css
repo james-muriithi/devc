@@ -1,4 +1,6 @@
 body{
 	color: #f32;
 	background: #fefefe;
+	font-size: 40px;
+	text-transform: capitalize;
 }
